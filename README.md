@@ -1,6 +1,6 @@
 ![niramaya-college Website Preview](https://raw.githubusercontent.com/Anuswar/portfolio/main/assets/images/preview.png)
 
-# 🎓 portfolio Website
+# 💻 portfolio Website
 
 This is a personal portfolio website created using HTML, CSS, and JavaScript for a coding challenge. The site features a modern, responsive design with sections for an introduction, skills, projects, and contact information. Smooth scrolling, hover effects, and interactive elements enhance the user experience. The goal of this project is to demonstrate front-end development skills while keeping the design clean and functional.
 
