@@ -1,8 +1,8 @@
-![niramaya-college Website Preview](https://raw.githubusercontent.com/Anuswar/niramaya-college/main/assets/images/preview.png)
+![niramaya-college Website Preview](https://raw.githubusercontent.com/Anuswar/portfolio/main/assets/images/preview.png)
 
-# 🎓 Niramaya college Website
+# 🎓 portfolio Website
 
-Welcome to the GitHub repository for the Niramaya College of Nursing & Allied Sciences website! This repository contains the source code for the official website of Niramaya College of Nursing & Allied Sciences, built using PHP and MySQL. The website serves as an information hub for students, faculty, and prospective applicants, providing details about courses, admissions, faculty, events, and more
+This is a personal portfolio website created using HTML, CSS, and JavaScript for a coding challenge. The site features a modern, responsive design with sections for an introduction, skills, projects, and contact information. Smooth scrolling, hover effects, and interactive elements enhance the user experience. The goal of this project is to demonstrate front-end development skills while keeping the design clean and functional.
 
 ## ⚙️ Installation
 
@@ -10,8 +10,8 @@ To run this website locally or contribute to its development, follow these steps
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Anuswar/niramaya-college.git
-    cd niramaya-college
+    git clone https://github.com/Anuswar/portfolio.git
+    cd portfolio
     ```
 
 2. **Open your browser** and navigate to `http://localhost:8000`.
@@ -19,34 +19,23 @@ To run this website locally or contribute to its development, follow these steps
 ## 🛠️ Technologies Used
 
 - Frontend: HTML, CSS, JavaScript
-- Framework: Bootstrap
-- Fonts: Google Fonts (Nunito, Rubik)
-- Icons: Font Awesome
-- Libraries:
-    - Swiper (slider)
-    - glightbox (image gallery)
-    - Masonry (Grid Layout)
+- Fonts: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif
+
 
 ## 📂 Project Structure
 
 The project structure is organized as follows:
 
 ```
-niramaya-college/
-├── Courses/             # Contains course details
-│   └── Courses.html     # Webpage listing all courses offered by the college
+portfolio/               # Root directory of the project
 ├── assets/              # Directory for external resources
 │   ├── css/             # Styling and layout
 │   │   └── style.css    # Custom CSS styles for the website
-│   └── images/          # Logos, banners, and other image assets
-├── brochure/            # Contains downloadable brochure
-│   └── brochure.pdf     # College brochure
+│   └── images/          # Logos, icons, and other image assets
+│       ├── favicon.png  # Favicon for the website
+│       └── preview.png  # Preview image
 ├── js/                  # JavaScript for interactivity
 │   └── script.js        # Custom scripts for enhanced functionality
-├── policies/            # Legal and policy-related documents
-│   ├── Privacy.html     # Privacy Policy page
-│   ├── Sitemap.html     # Sitemap for website navigation
-│   └── Terms.html       # Terms & Conditions page
 ├── index.html           # Homepage of the website
 ├── LICENSE.md           # License information
 └── README.md            # Documentation for the project
